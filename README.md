@@ -1,5 +1,5 @@
 # Catch-Coins
-# 用Nim所開發的借金幣的小遊戲
+# 用Nim搭配Raylib所開發的接金幣的小遊戲
 
 # ===== *** 遊戲畫面 *** =====
 ![1](https://github.com/NiYeh/Catch-Coins/assets/108889900/5a5f1b08-08c6-475b-876b-c835d1db97fa)
