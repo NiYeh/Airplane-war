@@ -1,5 +1,3 @@
-
-https://github.com/NiYeh/Airplane-war/assets/108889900/d4fa823d-0d71-4f17-930d-0d75ed15a283
 # Airplane-war
 # 使用Nim配合nimraylib_now所製作的小遊戲
 * 參考以及學習來源 https://github.com/greenfork/nimraylib_now
@@ -11,4 +9,4 @@ https://github.com/NiYeh/Airplane-war/assets/108889900/d4fa823d-0d71-4f17-930d-0
 ![win](https://github.com/NiYeh/Airplane-war/assets/108889900/bd15ad5f-95c0-49e5-bc92-74ab747eca38)
 
 # #影片
-Uploading play.mp4…
+https://github.com/NiYeh/Airplane-war/assets/108889900/d4fa823d-0d71-4f17-930d-0d75ed15a283
