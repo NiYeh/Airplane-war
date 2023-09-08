@@ -7,4 +7,4 @@
 ![lose](https://github.com/NiYeh/Airplane-war/assets/108889900/b239f14b-b1c2-4498-b1fa-2fee9ea0afd4)
 ![win](https://github.com/NiYeh/Airplane-war/assets/108889900/b412592c-d9c4-4fe0-ad2f-748957f1fe76)
 # #影片
-https://github.com/NiYeh/Airplane-war/assets/108889900/a188c51b-a5ce-40b2-a6aa-828e11e67f17
+https://github.com/NiYeh/Airplane-war/assets/108889900/424da58d-c0a7-461e-9874-6df85a83c705
